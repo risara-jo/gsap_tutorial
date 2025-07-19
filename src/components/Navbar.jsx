@@ -15,7 +15,7 @@ const Navbar = () => {
             { backgroundColor: "rgba(0, 0, 0, 0.8)", 
                 backgroundFilter: "blur(10px)", duration: 1, ease: "power1.inOut" });
 
-})
+});
 
   return (
     <nav>
